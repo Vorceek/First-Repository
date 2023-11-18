@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Opa Jean, este é o meu código</h1>
+    return <h1>Sucesso é o acúmulo de pequenos esforços repetidos dia a dia</h1>
 }
 
 export default Home;
